@@ -1,0 +1,9 @@
+components:
+  - type: MyComponent
+    props:
+      prop1: value1
+      prop2: value2
+  - type: AnotherComponent
+    props:
+      prop1: value3
+      prop2: value4
